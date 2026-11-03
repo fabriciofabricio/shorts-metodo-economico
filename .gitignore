@@ -1,0 +1,11 @@
+node_modules/
+app/out/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.mp4
+# fotos/modelo do produto (marca) ficam fora do repo
+app/public/short1/
+short1/marca/
+.claude/
